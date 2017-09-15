@@ -1,0 +1,17 @@
+{
+    "name": "xiaocui-s/testModul",
+    "authors": [
+        {
+            "name": "xiaocui",
+            "email": "xiaocui_s@sian.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-0": {
+            "Xiaocui\\TestModul\\": "src/"
+        }
+    }
+}
