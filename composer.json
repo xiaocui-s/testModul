@@ -1,14 +1,11 @@
 {
     "name": "xiaocui-s/testmodul",
-    "description": "Role-based Permissions for laravel 5.",
-    "license": "MIT",
     "authors": [
         {
             "name": "xiaocui",
             "email": "xiaocui_s@sian.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=5.5.9"
     },
